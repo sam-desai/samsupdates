@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/samsupdates/static/css/main.ed457499.css",
+    "main.js": "/samsupdates/static/js/main.beb63c87.js",
+    "static/js/787.722d920c.chunk.js": "/samsupdates/static/js/787.722d920c.chunk.js",
+    "static/media/swim.webp": "/samsupdates/static/media/swim.726d666e6a6b131dd185.webp",
+    "static/media/npfh.jpg": "/samsupdates/static/media/npfh.0c20b4d0c14d6812f772.jpg",
+    "static/media/crypto.jpg": "/samsupdates/static/media/crypto.d719d9bd7ecc54dabaac.jpg",
+    "static/media/skeyenet.JPG": "/samsupdates/static/media/skeyenet.1d2c5a1427cac65508da.JPG",
+    "static/media/kurniv.JPG": "/samsupdates/static/media/kurniv.da4f5373265fd0407345.JPG",
+    "index.html": "/samsupdates/index.html",
+    "main.ed457499.css.map": "/samsupdates/static/css/main.ed457499.css.map",
+    "main.beb63c87.js.map": "/samsupdates/static/js/main.beb63c87.js.map",
+    "787.722d920c.chunk.js.map": "/samsupdates/static/js/787.722d920c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed457499.css",
+    "static/js/main.beb63c87.js"
+  ]
+}
